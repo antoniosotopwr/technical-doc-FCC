@@ -131,5 +131,6 @@ code {
   text-decoration: underline;
 }
 .footer{
+  padding-left: 0;
   text-align: end;
 }

@@ -53,6 +53,9 @@
     width: 100%;
     padding: 2rem;
   }
+  .footer{
+    text-align: end;
+  }
 }
 
 /* 704 */
@@ -65,5 +68,9 @@
   }
   .ul-list-article--sublist {
     padding-left: 2rem;
+  }
+  .footer{
+    padding-top: 2rem;
+    text-align: center;
   }
 }
