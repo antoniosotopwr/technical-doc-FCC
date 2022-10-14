@@ -11,6 +11,7 @@ body {
 }
 body {
   line-height: 1.5;
+  
 }
 
 /* .container {
@@ -87,6 +88,7 @@ h1 {
   padding-left: 1rem;
   padding-top: 1rem;
   font-size: 0.95rem;
+  justify-content: center;
 }
 
 .ul-list-article {
@@ -127,4 +129,7 @@ code {
 .ref-link:active {
   color: #5b5bf0;
   text-decoration: underline;
+}
+.footer{
+  text-align: end;
 }
