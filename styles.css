@@ -8,6 +8,7 @@ body {
   font-family: "Open Sans", Arial, sans-serif;
   background-color: #ffffff;
   color: #4d4e53;
+  scroll-behavior: smooth;
 }
 body {
   line-height: 1.5;
